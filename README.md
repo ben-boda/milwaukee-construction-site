@@ -5,7 +5,7 @@ Static landing page example for a Milwaukee construction company.
 ## Links
 
 - GitHub: https://github.com/ben-boda/milwaukee-construction-site
-- Preview: https://cream-city-construction-co-site.netlify.app
+- Preview: https://69b312619377c839cb9c480e--cream-city-construction-co-site.netlify.app
 
 ## Files
 
